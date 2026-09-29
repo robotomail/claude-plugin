@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "robotomail": {
+      "type": "http",
+      "url": "https://robotomail.com/mcp"
+    }
+  }
+}
