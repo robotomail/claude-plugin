@@ -3,9 +3,18 @@
   "displayName": "Robotomail",
   "version": "1.0.0",
   "description": "Work with your Robotomail agent mailboxes from Claude: search and read email, triage an inbox, and send or reply safely from the right mailbox.",
-  "author": { "name": "Robotomail", "url": "https://robotomail.com" },
+  "author": {
+    "name": "Robotomail",
+    "url": "https://robotomail.com"
+  },
   "homepage": "https://robotomail.com/docs/mcp",
+  "privacyPolicyUrl": "https://robotomail.com/privacy",
   "repository": "https://github.com/robotomail/claude-plugin",
   "license": "MIT",
-  "keywords": ["email", "inbox", "ai-agents", "mcp"]
+  "keywords": [
+    "email",
+    "inbox",
+    "ai-agents",
+    "mcp"
+  ]
 }
